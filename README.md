@@ -37,7 +37,7 @@ Question =>  "good "
 Answer ==> Except for the last answer all matches this pattern so any of the first 4 answers can be selected.
 
 **Copyright**
-Sanjoy Biswas
+Sanjoy Biswas | Data Scientist
 
 
 
