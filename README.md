@@ -14,8 +14,6 @@ For finding the answers it allows partial matching to find out an answer and in 
 
 good morning-;-good morning
 
-good afternoon-;-good afternoon
-
 good evenning-;-good evenning
 
 good night-;-good night
