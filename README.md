@@ -6,7 +6,7 @@ The added value of this chatbot is simplicity. Usually machine learning techniqu
 
 In this chatbot I provide an alternative method using python dictionaries and simple CSV files as the main mechanism of the core of the solution. 
 
-For finding the answers it allows partial matching to find out an answer and in this way keep simple the CSV file. 
+For finding the answers it allows partial matching to find out an answer and in this way keep simple the CSV file set. 
 
 
 
