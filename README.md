@@ -1,4 +1,4 @@
-# Simple-multiuser-Q&A chatbot-web-server in flask
+# Simple-multiuser-Q&A chatbot-web-server in flask..
 
 In this project I present a simple multiuser chatbot web server using flash and python. Multiples users can ask questions to the chatbot and all people see all questions and answers.
 
